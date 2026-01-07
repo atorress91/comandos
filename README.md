@@ -10,11 +10,11 @@ Este repositorio contiene manuales de referencia para comandos de diferentes fra
 
 ## Cómo Usar
 
-Cada archivo contiene tablas con comandos y sus descripciones. Puedes abrirlos directamente en GitHub o clonar el repositorio para acceso local.
+Cada archivo contiene tablas con comandos y sus descripciones. Se pueden abrir directamente en GitHub o clonar el repositorio para acceso local.
 
 ## Contribuciones
 
-Si deseas agregar manuales para otros frameworks (como Vue.js, Svelte, etc.), crea un issue o pull request con el contenido en formato Markdown similar.
+Se puede agregar más manuales para otros frameworks (como Vue.js, Svelte, etc.), crea un issue o pull request con el contenido en formato Markdown similar.
 
 ## Licencia
 
