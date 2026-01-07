@@ -4,8 +4,9 @@ Este repositorio contiene manuales de referencia para comandos de diferentes fra
 
 ## Manuales Disponibles
 
-- [� Docker](docker.md) - Comandos completos para gestión de contenedores, imágenes, redes y volúmenes.
-- [�🛠️ Angular CLI](angular.md) - Comandos para crear, generar y gestionar proyectos Angular.
+- [🐳 Docker](docker.md) - Comandos completos para gestión de contenedores, imágenes, redes y volúmenes.
+- [🛠️ Angular CLI](angular.md) - Comandos para crear, generar y gestionar proyectos Angular.
+- [🛠️ Entity Framework Core](entity-framework.md) - Comandos y operaciones para ORM de .NET.
 - [🛠️ .NET CLI](dotnet.md) - Comandos para gestionar soluciones y proyectos .NET.
 - [🛠️ React con Next.js](react.md) - Comandos para desarrollo con Next.js.
 
